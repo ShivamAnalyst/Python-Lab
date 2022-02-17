@@ -12,7 +12,7 @@ Tyes of Data types
 
 | Name           | Type          |Discription   |
 | -------------  | ------------- |------------- |
-| Integers       | int           |              |
+| Integers       | *int*           |              |
 | Floating point | float         |              |
 | String         | str           |              |
 | Boolean        | bool          |              |
