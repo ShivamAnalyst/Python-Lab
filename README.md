@@ -8,3 +8,15 @@ Refrences.
 
 
 #### Python Data Types
+Tyes of Data types
+
+Name                    Type            Discription
+----------------        ------          -------------
+Integers                 int            
+Floating point           float
+String                   str
+Boolean                  bool
+List                     list
+Dictionary               dict
+Tuples                   tup
+Sets                     set
